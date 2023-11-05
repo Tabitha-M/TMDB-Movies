@@ -1,7 +1,9 @@
-Movie Data Analysis
+*Movie Data Analysis*
+
 This repository contains an analysis of movie data to identify trends and factors influencing movie profitability. The findings are based on a dataset containing information about various movies, including their genres, release years, budgets, and revenues.
 
 Conclusions
+
 After conducting the analysis, the following conclusions were drawn:
 
 Drama is the most popular genre, followed by action, comedy, and thriller.
